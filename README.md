@@ -15,3 +15,5 @@
 • Exploratory Data Analysis<br>
 • Feature Engineering and Data Modeling<br>
 • Data Visualization and Presentation</p>
+<br> 
+Please note that the EDA notebook uses Plotly, a Python package that is not compatible with Github. To view the notebook in its entirety, please use <a href="https://nbviewer.org/github/vchellapilla/Capstone2/blob/main/Capstone2_EDA.ipynb"> this NBViewer link</a>. 
