@@ -1,4 +1,4 @@
-<h1>Capstone2</h1>
+<h1>Capstone2: Price Prediction Model for Airbnb Listings in New York, NY</h1>
 
 <h2>Overview</h2>
 
