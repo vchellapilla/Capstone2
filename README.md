@@ -7,7 +7,7 @@
 
 <h2>Data Approach</h2>
 <h3>Target Audience</h3>
-<p>The target audience for this project is Letterboxd users.</p>
+<p>The target audience for this project is Airbnb users.</p>
 
 <h3>Envisioned Approach</h3>
 <p>Creating a predictive model to predict the prices of Airbnb rental units in New York City. Steps in the process include:<br>
